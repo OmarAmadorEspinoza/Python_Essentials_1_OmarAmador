@@ -29,7 +29,7 @@ Los resúmenes detallados escritos a mano (2 cuartillas por módulo, 8 cuartilla
 ## Evidencias y Capturas de Pantalla
 
 ### 1. Progreso General, Quizzes y Exámenes
-* Ver las capturas de progreso y evaluaciones en la carpeta: [`/Examenes_quiz_progreso`](./Examenes_quiz_progreso/)
+* Ver las capturas de progreso y evaluaciones en la carpeta: [`/Examenes_quiz_progreso`](./Examenes_quiz_progreso/) 
 
 ### 2. Ejecución de Laboratorios
 * Ver la ejecución y resolución de los laboratorios en la carpeta: [`/Laboratorios`](./Laboratorios/)
