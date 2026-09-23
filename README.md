@@ -22,7 +22,7 @@ En este curso de **Python Essentials 1**, se abordaron los fundamentos esenciale
 
 ## Resúmenes Escritos a Mano
 Los resúmenes detallados escritos a mano (2 cuartillas por módulo, 8 cuartillas en total) se encuentran en el archivo PDF adjunto:
-* [Ver Resúmenes en PDF](./Resumenesdemodulos_AmadorEspinozaOmarManuel.pdf)
+* [Ver Resúmenes en PDF](./Resumenesdemodulos_AmadorEspinozaOmarManuel_GTIR246.pdf) 
 
 ---
 
