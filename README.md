@@ -54,7 +54,7 @@ capitulos1-4/
 ```
 ## Evidencias de Trabajo y Autoría
 
-### 1. Resúmenes Escritos a Mano (8 Cuartillas en total)
+### 1. Resúmenes Escritos a Mano (+8 Cuartillas en total)
 Documento en PDF que recopila la síntesis conceptual (2 cuartillas escritas a mano por cada módulo):
 
 * [Ver PDF de Resúmenes Módulos 1-4](./Resumenesdemodulos_AmadorEspinozaOmarManuel_GTIR246.pdf)
