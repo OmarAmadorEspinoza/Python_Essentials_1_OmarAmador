@@ -5,7 +5,7 @@ Markdown
 * **Institución:** Universidad Tecnológica del Norte de Guanajuato (UTNG)
 * **Carrera:** Ingeniería en Tecnologías de la Información e Innovación Digital
 * **Grupo:** GTIR246
-* **Alumno:** Omar Manuel Amador Espinoza
+* **Alumno:** Omar Manuel Amador Espinoza.
 * **Curso:** Python Essentials 1 (OpenEDG / Cisco Networking Academy)
 * **Fecha de entrega:** 23 de Septiembre de 2026
 
