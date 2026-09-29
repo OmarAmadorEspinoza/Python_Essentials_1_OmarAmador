@@ -23,9 +23,9 @@ En este curso de **Python Essentials 1**, se abordaron los fundamentos esenciale
 ## Estructura del Repositorio
 
 ```text
-Python_Essentials_1_OmarAmador/
+capitulos1-4/
 ├── README.md
 ├── Resumenesdemodulos_AmadorEspinoza.pdf
 ├── print.py
-├── /Examenes_quiz_progreso/
-└── /Laboratorios/
+├── Examenes_quiz_progreso/
+└── Laboratorios/
