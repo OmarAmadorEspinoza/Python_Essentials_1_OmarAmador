@@ -51,28 +51,29 @@ capitulos1-4/
     ├── Laboratorio2/
     ├── Laboratorio3/
     └── Laboratorio4/
-Evidencias de Trabajo y Autoría
+
+##Evidencias de Trabajo y Autoría
 1. Resúmenes Escritos a Mano (8 Cuartillas en total)
 Documento en PDF que recopila la síntesis conceptual (2 cuartillas escritas a mano por cada módulo):
 
-Ver PDF de Resúmenes Módulos 1-4
+📄 Ver PDF de Resúmenes Módulos 1-4
 
 2. Quizzes de Módulo (100% Calificación)
 Capturas de pantalla del intento y aprobación con el 100% de la evaluación corta de cada módulo:
 
-Ver Capturas de Quizzes
+📁 Ver Capturas de Quizzes
 
 3. Exámenes del Curso
 Evidencias correspondientes a los exámenes de evaluación por sección:
 
-Ver Capturas de Exámenes
+📁 Ver Capturas de Exámenes
 
 4. Progreso General del Perfil
 Captura de la sección My Progress en la plataforma OpenEDG/Edube, validando la autoría y cuenta activa:
 
-Ver Captura de Progreso General
+📁 Ver Captura de Progreso General
 
 5. Laboratorios Prácticos
 Ejercicios prácticos desarrollados y ejecutados correctamente para cada capítulo:
 
-Ver Carpeta de Laboratorios
+📁 Ver Carpeta de Laboratorios
